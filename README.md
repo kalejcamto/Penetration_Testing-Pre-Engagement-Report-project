@@ -1,6 +1,6 @@
 # Penetration_Testing-Pre-Engagement-Report-project
 
-A Maui-based real estate firm, **Alexander Rocco Corporation**, has hired your consulting company to perform a covert penetration test on its network, which supports a luxury property (hotel, golf courses, restaurants). The Vice President, **Claudia Mae**, is my sole contact, and I will not be introduced to any other employees or IT staff. The objective is to **discover network infrastructure, topology, and vulnerabilities without internal assistance**, maintaining a completely black-box approach.
+A Maui-based real estate firm, **Alexander Rocco Corporation**, has hired my consulting company to perform a covert penetration test on its network, which supports a luxury property (hotel, golf courses, restaurants). The Vice President, **Claudia Mae**, is my sole contact, and I will not be introduced to any other employees or IT staff. The objective is to **discover network infrastructure, topology, and vulnerabilities without internal assistance**, maintaining a completely black-box approach.
 
 
 To: Claudia Mae, Vice President, Alexander Rocco Corporation 
